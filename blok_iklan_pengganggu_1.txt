@@ -1,0 +1,14 @@
+#
+# Ad list layarkaca21
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 yukclick.me
+0.0.0.0 s1.makimbo.xyz/assets/ux777-header.gif
+0.0.0.0 s1.makimbo.xyz/assets/lux111.gif
+0.0.0.0 s1.makimbo.xyz/assets/MILD88-Sidebar.gif
+0.0.0.0 s1.indexmovies.xyz/assets/xlbola-.gif
+
+
+#
+# Ad list youtube premium
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 gstatic.com/youtube/img/promos/growth/864dc47e45a7a0b06602f73155980de282b939a6d0adc7bdcda231f965bf796a_640x48.png
