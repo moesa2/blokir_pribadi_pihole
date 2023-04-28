@@ -16,9 +16,6 @@
 0.0.0.0 live.rezync.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 nessainy.net
-0.0.0.0 bananalicious.xyz
-0.0.0.0 cdn.iamcdn.net
-
 
 
 
