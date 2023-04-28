@@ -11,6 +11,7 @@
 0.0.0.0 my.rtmark.net
 0.0.0.0 adsimg.kompas.com
 0.0.0.0 newrevive.detik.com
+0.0.0.0 kopsooli.com
 
 
 #
