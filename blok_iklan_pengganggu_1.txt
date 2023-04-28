@@ -2,10 +2,10 @@
 # Ad list layarkaca21
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 yukclick.me
-0.0.0.0 s1.makimbo.xyz/assets/ux777-header.gif
-0.0.0.0 s1.makimbo.xyz/assets/lux111.gif
-0.0.0.0 s1.makimbo.xyz/assets/MILD88-Sidebar.gif
-0.0.0.0 s1.indexmovies.xyz/assets/xlbola-.gif
+||s1.makimbo.xyz/assets/ux777-header.gif
+||s1.makimbo.xyz/assets/lux111.gif
+||s1.makimbo.xyz/assets/MILD88-Sidebar.gif
+||s1.indexmovies.xyz/assets/xlbola-.gif
 0.0.0.0 whoodseb.com
 0.0.0.0 you.wendiella.sbs
 0.0.0.0 my.rtmark.net
