@@ -12,6 +12,16 @@
 0.0.0.0 adsimg.kompas.com
 0.0.0.0 newrevive.detik.com
 0.0.0.0 kopsooli.com
+0.0.0.0 cdn.heycdn81.xyz
+0.0.0.0 filemoon.sx
+0.0.0.0 live.rezync.com
+0.0.0.0 referrer.disqus.com
+0.0.0.0 nessainy.net
+0.0.0.0 bananalicious.xyz
+0.0.0.0 iamcdn.net
+0.0.0.0 cdn.iamcdn.net
+
+
 
 
 #
