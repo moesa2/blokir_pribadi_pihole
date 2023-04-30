@@ -2,10 +2,10 @@
 # Ad list layarkaca21
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 yukclick.me
-||s1.makimbo.xyz/assets/ux777-header.gif
-||s1.makimbo.xyz/assets/lux111.gif
-||s1.makimbo.xyz/assets/MILD88-Sidebar.gif
-||s1.indexmovies.xyz/assets/xlbola-.gif
+0.0.0.0 s1.makimbo.xyz/assets/ux777-header.gif
+0.0.0.0 s1.makimbo.xyz/assets/lux111.gif
+0.0.0.0 s1.makimbo.xyz/assets/MILD88-Sidebar.gif
+0.0.0.0 s1.indexmovies.xyz/assets/xlbola-.gif
 0.0.0.0 whoodseb.com
 0.0.0.0 you.wendiella.sbs
 0.0.0.0 my.rtmark.net
@@ -16,15 +16,14 @@
 0.0.0.0 live.rezync.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 nessainy.net
-||dl.indexmovies.xyz/Luxury777.mp4$media
-||https://avonsour.com/4/1146778
-||womsouph.com
-||reevoopt.com
-||yukclick.me
-||ptousteg.net
-||https://ptousteg.net/4/1146778
-||dimseeje.com
-||pemsecuy.net
+0.0.0.0 dl.indexmovies.xyz/Luxury777.mp4$media
+0.0.0.0 https://avonsour.com/4/1146778
+0.0.0.0 womsouph.com
+0.0.0.0 reevoopt.com
+0.0.0.0 ptousteg.net
+0.0.0.0 https://ptousteg.net/4/1146778
+0.0.0.0 dimseeje.com
+0.0.0.0 pemsecuy.net
 
 
 #
