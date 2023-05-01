@@ -9,24 +9,32 @@
 0.0.0.0 whoodseb.com
 0.0.0.0 you.wendiella.sbs
 0.0.0.0 my.rtmark.net
-0.0.0.0 adsimg.kompas.com
-0.0.0.0 newrevive.detik.com
 0.0.0.0 kopsooli.com
 0.0.0.0 cdn.heycdn81.xyz
 0.0.0.0 live.rezync.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 nessainy.net
-0.0.0.0 dl.indexmovies.xyz/Luxury777.mp4$media
-0.0.0.0 https://avonsour.com/4/1146778
+0.0.0.0 dl.indexmovies.xyz
+0.0.0.0 dl.indexmovies.xyz/Luxury777.mp4
+0.0.0.0 avonsour.com/4/1146778
 0.0.0.0 womsouph.com
 0.0.0.0 reevoopt.com
 0.0.0.0 ptousteg.net
-0.0.0.0 https://ptousteg.net/4/1146778
+0.0.0.0 ptousteg.net/4/1146778
 0.0.0.0 dimseeje.com
 0.0.0.0 pemsecuy.net
+0.0.0.0 abysscdn.com
+0.0.0.0 ak.whookroo.com
+0.0.0.0 rezync.com
+0.0.0.0 dalyai.com
 
 
 #
 # Ad list youtube premium
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 gstatic.com/youtube/img/promos/growth/864dc47e45a7a0b06602f73155980de282b939a6d0adc7bdcda231f965bf796a_640x48.png
+
+#
+#
+0.0.0.0 adsimg.kompas.com
+0.0.0.0 newrevive.detik.com
