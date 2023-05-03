@@ -36,5 +36,4 @@
 
 #
 #
-0.0.0.0 adsimg.kompas.com
 0.0.0.0 newrevive.detik.com
