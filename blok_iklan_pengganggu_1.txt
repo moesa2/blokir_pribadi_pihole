@@ -27,6 +27,8 @@
 0.0.0.0 ak.whookroo.com
 0.0.0.0 rezync.com
 0.0.0.0 dalyai.com
+0.0.0.0 dl.indexmovies.xyz
+
 
 
 #
